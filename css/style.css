@@ -1,0 +1,61 @@
+body {
+  
+background: linear-gradient(180deg, #ccccff, #6666ff, #ccccff);
+  font-family: arial;
+  max-width: 960px;
+  margin: auto;
+  text-align: center;
+}
+
+#title {
+  color: black;
+  font-size: 40px;
+  
+}
+h2 {
+  color: #00001a;
+  font size: 20px;
+
+}
+#img-div {
+  background-color: #ccccff;
+border: 5px black solid;
+  max-width: 280px;
+  min-width: 280px;
+  height: auto;
+    isplay: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+}
+
+#img {
+  max-width: 100%;
+  min-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#tribute-info {
+}
+
+p {
+  font-size: 15px;
+  color: black;
+
+}
+p4 {
+  color: #00001a;
+
+}
+a:hover {
+  color: red;
+}
+
+
+#main {
+  
+}
