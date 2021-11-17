@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b66ce67-63d8-4419-8d37-001414585a21/deploy-status)](https://app.netlify.com/sites/penguin-dm/deploys)
+
 A tribute page created for the resposive web design certification on FreeCodeCamp
 
 This is my first web page cresated. Utilising HTML and CSS.
